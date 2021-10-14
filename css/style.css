@@ -68,7 +68,7 @@ body {
     }
 }
 
-@media (max-width: 2000px) {
+/* @media (max-width: 2000px) {
     .globalMain {
         padding: 0 216px;
     }
@@ -78,7 +78,7 @@ body {
     .searchForm>input {
         width: 38%;
     }
-}
+} */
 
 @media (min-width: 1700px) {
     .globalMain {
